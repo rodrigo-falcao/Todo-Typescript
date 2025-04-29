@@ -5,7 +5,7 @@ Ele permite adicionar, marcar como concluídas, remover e limpar tarefas conclu�
 A difenrênça desse projeto para outros elaborados de forma parecida, foram as tipagens e inicialização do projeto utilizando **typescript**
 
 ## 🌍 Acesse o Projeto
-🔗 [Clique aqui para acessar](https://rodrigo-falcao.github.io/JsProject/)
+🔗 [Clique aqui para acessar](https://todo-typescript-wheat.vercel.app/)
 
 ## 🚀 Funcionalidades
 
