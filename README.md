@@ -41,3 +41,6 @@ reactType/
 🔹 Projeto criado para aprendizado e prática! 🚀 Sinta-se à vontade para contribuir ou sugerir melhorias. 😊
 
 ## 📸 Screenshots
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f3f937cd-4e20-48a7-827e-de6a78c4a51e" alt="Screenshot do projeto">
+</p>
