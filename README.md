@@ -1,4 +1,4 @@
-# Lista de Tarefas 📝
+# 📝 Lista de Tarefas 
 
 Este é um projeto de **Lista de Tarefas** desenvolvido em **React** com **TypeScript**. <br/>
 Ele permite adicionar, marcar como concluídas, remover e limpar tarefas concluídas, além de alternar entre temas claro e escuro.<br/>
